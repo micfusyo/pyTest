@@ -1,0 +1,5 @@
+﻿1. 由Microsoft Store下載並安裝Visual Studio Code和Python
+2. 在VS code裡下載安裝擴展Python(Microsoft)
+3. VS code開啟資料夾和新建.py檔
+4. 在VS code的終端機pip install pyserial
+5. 在新建.py檔加import time和import serial看可否順利載入
